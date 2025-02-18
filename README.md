@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">💻 Activity</h2>
+<h2 align="center">💻 Activity</h2>
     <img style="width: 419px;height: 177px;"  src="https://streak-stats.demolab.com?user=Mozkyy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  alt="streak graph"/>
     <img style="width: 317px;height: 140px;"  src="https://github-readme-stats.vercel.app/api?username=Mozkyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"  />
     <img style="width: 317px;height: 140px;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Mozkyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
