@@ -1,4 +1,4 @@
-### ✨ About Me ✨
+# ✨ About Me ✨
 
 👋
 **Mozkyy/Mozkyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
