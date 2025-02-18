@@ -36,18 +36,18 @@
 
 ###
 
-<p align="left"> 📱Social</p>
+<p align="left">📱Social</p>
 
 ###
 
 <div align="left">
-    
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mozkyy_?igsh=ZDdsMjI1b2p0YjBv&utm_source=qr)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@mozkyy_?_t=ZS-8u1J3Xn0yWq&_r=1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-za%E2%80%99im-muzakki-242391281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
+  <a href="https://www.linkedin.com/in/muhammad-za%E2%80%99im-muzakki-242391281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/mozkyy_?igsh=ZDdsMjI1b2p0YjBv&utm_source=qr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
-
 
 ###
 
