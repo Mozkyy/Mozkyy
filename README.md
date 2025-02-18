@@ -1,14 +1,22 @@
 # ✨ About Me ✨
 
-<p align="left">👋 Hello Coder!! I'm Za'im Muzakki<br> 👤I'm currently studying at Universitas Dian Nuswantoro, Semarang, Jawa Tengah<br>💫"It is better to fail while trying something new than to stay silent and do nothing." - Mozky</p>
+<p align="left">
+  👋 Hello Coder!! I'm **Za'im Muzakki**<br> 
+  👤I'm currently studying at **Universitas Dian Nuswantoro**, Semarang, Jawa Tengah<br>
+  💫"It is better to fail while trying something new than to stay silent and do nothing." - Mozky</p>
 
 ###
 
-<p align="left">💻 Activity</p>
+<p align="left"> ##💻 Activity</p>
+    <img style="width: 419px;height: 177px;"  src="https://streak-stats.demolab.com?user=Mozkyy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  alt="streak graph"/>
+    <img style="width: 317px;height: 140px;"  src="https://github-readme-stats.vercel.app/api?username=Mozkyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"  />
+    <img style="width: 317px;height: 140px;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Mozkyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
+    <div style="width: 640px;height: 233px;padding-top: 1rem;background-color: 151515;background-image: url('https://wallpaperaccess.com/full/8673852.jpg');background-size: cover;background-position: center;background-repeat: no-repeat;height: 100vh;margin: 0;padding: 0;backdrop-filter: blur(40px); ">
+    </div>
 
 ###
 
-<p align="left">🚀 Main Technologies</p>
+<p align="left"> ##🚀 Main Technologies</p>
 
 ###
 
@@ -28,7 +36,7 @@
 
 ###
 
-<p align="left">📱Social</p>
+<p align="left"> ##📱Social</p>
 
 ###
 
