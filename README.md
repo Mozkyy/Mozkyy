@@ -1,7 +1,6 @@
 # ✨ About Me ✨
 
 👋 Hallo, My Name is **Muhammad Za'im Muzakki** 
-
 🎓 I'm currently studying at **Universitas Dian Nuswantoro**, Semarang, Jawa Tengah
 
 
