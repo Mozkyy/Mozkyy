@@ -1,7 +1,29 @@
 # ✨ About Me ✨
 
-👋
-**Mozkyy/Mozkyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hallo, My Name is **Muhammad Za'im Muzakki** 
+🎓 I'm currently studying at **Universitas Dian Nuswantoro**, Semarang Jawa Tengah
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 - 🔭 I’m currently working on ...
