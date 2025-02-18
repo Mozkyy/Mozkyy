@@ -1,6 +1,6 @@
 # ✨ About Me ✨
 
-<p align="left">Hello World!!👋 Hello Coder!! I'm Za'im Muzakki<br> 👤I'm currently studying at Universitas Dian Nuswantoro, Semarang, Jawa Tengah<br>💫"It is better to fail while trying something new than to stay silent and do nothing." - Mozky</p>
+<p align="left">👋 Hello Coder!! I'm Za'im Muzakki<br> 👤I'm currently studying at Universitas Dian Nuswantoro, Semarang, Jawa Tengah<br>💫"It is better to fail while trying something new than to stay silent and do nothing." - Mozky</p>
 
 ###
 
