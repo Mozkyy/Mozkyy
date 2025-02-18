@@ -32,7 +32,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
     
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mozkyy_?igsh=ZDdsMjI1b2p0YjBv&utm_source=qr)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@mozkyy_?_t=ZS-8u1J3Xn0yWq&_r=1)
