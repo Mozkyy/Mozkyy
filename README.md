@@ -5,7 +5,7 @@
   👤I'm currently studying at Universitas Dian Nuswantoro, Semarang, Jawa Tengah<br>
   💫"It is better to fail while trying something new than to stay silent and do nothing." - Mozky</p>
 
-###
+### 
 
 <h2 align="left">💻 Activity</h2>
     <img style="width: 419px;height: 177px;"  src="https://streak-stats.demolab.com?user=Mozkyy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  alt="streak graph"/>
